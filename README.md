@@ -60,7 +60,7 @@ Technologies/Tools Involved:
 
 - Programming Language: (e.g., Python, JavaScript, Java).
   
-- Frameworks: (e.g., Flask, Django, React, Angular).
+- Frameworks: (e.g., React).
   
 - API Testing Tools: Postman, Swagger, or equivalent.
   
