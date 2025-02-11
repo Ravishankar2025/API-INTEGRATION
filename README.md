@@ -66,7 +66,7 @@ Technologies/Tools Involved:
   
 - Documentation Reference: (Add links to API documentation).
 
-#Output
+Output
 
 ![image1](https://github.com/user-attachments/assets/f0a8eaaa-14d7-47c3-9386-c024004cc404)
 
